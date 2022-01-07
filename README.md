@@ -1,2 +1,2 @@
 # Django-Project
-Django_Project
+Wow Django Project
