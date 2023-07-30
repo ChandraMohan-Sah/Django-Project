@@ -1,2 +1,2 @@
 # Django-Project
-Wow Django Project
+CRUD Operation Using DJango
